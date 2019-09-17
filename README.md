@@ -1,4 +1,6 @@
-# Angulardemo
+# Angular 8 demo app
+
+Read the accompanying tutorial from this [link](http://pusher.com/tutorials/angular-8-new-features)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
 
